@@ -1,0 +1,23 @@
+//Initialize the GPIO pins to be used
+
+
+//setup a  sigint to determine how many times the rain gauge and anemometer (clicks per second) when tipped and be able to clear and read it
+
+// setup serial ports 1 for debug 1 for comms to radio
+
+
+// initialize xBee
+
+
+
+
+
+Loop(){
+
+Be able to determine if the transciever on both sides are working correctly (Send 'heartbeat' signals)
+If one of them isn't working puls a light or something
+Write all the data into a database
+}
+
+
+Figure out a database software
